@@ -7,11 +7,11 @@
 
 ### Public page
 
-![Public page preview](./public/screenshots/public-page.svg)
+![Public page preview](./public/screenshots/public-page.png)
 
 ### Admin dashboard
 
-![Admin dashboard preview](./public/screenshots/admin-page.svg)
+![Admin dashboard preview](./public/screenshots/admin-page.png)
 
 ## Features
 
