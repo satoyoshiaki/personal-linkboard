@@ -3,6 +3,16 @@
 個人運用向けの Linktree 風リンクまとめアプリです。  
 `Next.js + Tailwind CSS + SQLite` の最小構成で、公開ページと管理画面を 1 つのアプリにまとめています。
 
+## Screenshots
+
+### Public page
+
+![Public page preview](./public/screenshots/public-page.svg)
+
+### Admin dashboard
+
+![Admin dashboard preview](./public/screenshots/admin-page.svg)
+
 ## Features
 
 - 公開用リンクページ
